@@ -1,0 +1,6 @@
+@AnOrg_HostAddress = http://localhost:5192
+
+GET {{AnOrg_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
